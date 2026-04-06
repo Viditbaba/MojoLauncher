@@ -42,7 +42,7 @@ You can get MojoLauncher via three methods:
 ```
 ./gradlew :app_pojavlauncher:assembleDebug
 ```
-(Replace `./gradlew` with `.\gradlew.bat` if you are building on Windows). (importqnt
+(Replace `./gradlew` with `.\gradlew.bat` if you are building on Windows). (important)
 
 ## Current roadmap
 - [x] Instance system in favor of profiles
