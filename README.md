@@ -24,7 +24,7 @@
 
 ## Introduction 
 * MojoLauncher is a Minecraft: Java Edition launcher for Android based on [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)
-* This launcher can launch almost all available Minecraft versions ranging from rd-132211 to 1.21 snapshots (including Combat Test versions). 
+* This launcher can launch almost all available Minecraft versions ranging from rd-132211 to 1.26 releases (including Combat Test versions). 
 * Modding via Forge and Fabric are also supported. 
 
 ## Getting MojoLauncher
@@ -42,7 +42,7 @@ You can get MojoLauncher via three methods:
 ```
 ./gradlew :app_pojavlauncher:assembleDebug
 ```
-(Replace `./gradlew` with `.\gradlew.bat` if you are building on Windows).
+(Replace `./gradlew` with `.\gradlew.bat` if you are building on Windows). (importqnt
 
 ## Current roadmap
 - [x] Instance system in favor of profiles
@@ -83,4 +83,4 @@ Any code change to this repository should be submitted as a pull request. The de
 - [Authlib-Injector](https://github.com/yushijinhun/authlib-injector) (Used for authorisation via ely.by): [AGPL-3.0](https://github.com/yushijinhun/authlib-injector/blob/develop/LICENSE).
 - [alsoft](https://github.com/kcat/openal-soft/) (Audio output library): [GNU LIBRARY GENERAL PUBLIC LICENSE](https://github.com/kcat/openal-soft/blob/master/COPYING) and [modified PFFFT](https://github.com/kcat/openal-soft/blob/master/LICENSE-pffft).
 - [oboe](https://github.com/google/oboe): [Apache License 2.0](https://github.com/google/oboe/blob/main/LICENSE).
-- Thanks to [Mineskin](https://mineskin.eu/) for providing Minecraft avatars.
+- Thanks to [Mineskin](https://mineskin.eu/) for providing Minecraft avatars. 
